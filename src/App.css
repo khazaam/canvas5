@@ -1,7 +1,16 @@
 .App {
   text-align: center;
 }
+.Canvas{
+  border: 2px solid #282c34;
+}
 
+#canvas{
+  border: #282c34;
+  min-height: 300px;
+  min-width: 300px;
+  border: 2px solid #282c34;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
